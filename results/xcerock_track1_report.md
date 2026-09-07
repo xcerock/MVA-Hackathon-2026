@@ -32,4 +32,4 @@ Claude Opus 5 - Plan Pro
 
 ## Repositorio
 
-[URL del repositorio]
+[[URL del repositorio](https://github.com/xcerock/MVA-Hackathon-2026.git)]
