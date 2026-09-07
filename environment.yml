@@ -1,0 +1,11 @@
+name: mva
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - bcftools=1.24
+  - samtools=1.24
+  - htslib
+  - tabix
+  - bedtools

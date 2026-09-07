@@ -1,0 +1,5 @@
+proband_id,chrom_1,pos_1,ref_1,alt_1,chrom_2,pos_2,ref_2,alt_2,epcr,finding_type,notes
+WGS_EX2312012,chr15,40209701,T,G,chr15,40220612,T,G,0.95,primary,"BUB1B; compound het; p.Leu737Ter (stop_gained); p.Asn1002Lys (missense_variant); ClinVar: pathogenic,likely_pathogenic"
+WGS_EX2312012,chr16,88714226,AGGTGTG,A,,,,,0.3529,secondary,"CTU2; homozygous; splice_donor_variant,splice_donor_5th_base_variant,coding_sequence_variant,intron_variant"
+WGS_EX2312012,chr12,7190512,GGCCTCTGAGGCAGTGAGTGTTCTTGAGGTGGAAAGCCCAGGTGCA,G,,,,,0.3529,secondary,"PEX5; homozygous; splice_donor_variant,splice_donor_5th_base_variant,coding_sequence_variant,intron_variant"
+WGS_EX2312012,chr6,160139865,CTGGTAAGT,C,,,,,0.3529,secondary,"SLC22A1; homozygous; splice_donor_variant,splice_donor_5th_base_variant,coding_sequence_variant,intron_variant"

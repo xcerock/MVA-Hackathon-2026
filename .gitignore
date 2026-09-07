@@ -1,0 +1,25 @@
+# Datos del paciente y enlaces simbolicos a ellos
+data
+db
+ref
+work
+logs
+
+# Formatos de datos crudos
+*.fastq.gz
+*.bam
+*.cram
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+*.docx
+
+# Resultados con genotipos del paciente.
+# Solo se publican los archivos de entrega, anadidos con git add -f
+results/*.tsv
+results/*.html
+
+# Python
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,11 @@
+proband_id,chrom_1,pos_1,ref_1,alt_1,chrom_2,pos_2,ref_2,alt_2,epcr,finding_type,notes
+WGS_EX2312012,chr15,40209701,T,G,chr15,40220612,T,G,0.95,primary,"BUB1B; compound het; p.Leu737Ter (stop_gained); p.Asn1002Lys (missense_variant); ClinVar: pathogenic,likely_pathogenic"
+WGS_EX2312012,chr16,88714226,AGGTGTG,A,,,,,0.494,secondary,"CTU2; homozygous; splice_donor_variant,splice_donor_5th_base_variant,coding_sequence_variant,intron_variant"
+WGS_EX2312012,chr12,7190512,GGCCTCTGAGGCAGTGAGTGTTCTTGAGGTGGAAAGCCCAGGTGCA,G,,,,,0.494,secondary,"PEX5; homozygous; splice_donor_variant,splice_donor_5th_base_variant,coding_sequence_variant,intron_variant"
+WGS_EX2312012,chr6,160139865,CTGGTAAGT,C,,,,,0.494,secondary,"SLC22A1; homozygous; splice_donor_variant,splice_donor_5th_base_variant,coding_sequence_variant,intron_variant"
+WGS_EX2312012,chr21,26844276,C,G,chr21,26844283,GTCCTCGCCCTCAGT,G,0.4465,secondary,ADAMTS1; compound het; p.Glu225LeufsTer13 (frameshift_variant); p.Thr220ArgfsTer76 (frameshift_variant)
+WGS_EX2312012,chr16,2094025,G,C,chr16,2118216,C,T,0.3515,secondary,"PKD1; compound het; splice_polypyrimidine_tract_variant,intron_variant; p.Cys259Tyr (missense_variant)"
+WGS_EX2312012,chr6,32641519,A,AG,chr6,32641522,A,G,0.3325,secondary,HLA-DQA1; compound het; p.Ile98SerfsTer4 (frameshift_variant); p.Met99Ter (frameshift_variant)
+WGS_EX2312012,chr14,19747402,T,TTCTC,chr14,19747830,A,G,0.3277,secondary,"OR4Q3; compound het; splice_region_variant,splice_polypyrimidine_tract_variant,intron_variant; p.Thr143Ala (missense_variant)"
+WGS_EX2312012,chr8,144392334,T,TGGGGGTGCAAGGTGA,,,,,0.323,secondary,ADCK5; homozygous; inframe_insertion
+WGS_EX2312012,chr17,41190343,T,TGCTGTGGGTCCAGCTGCTGCCAGCCTA,,,,,0.323,secondary,KRTAP9-1; homozygous; p.Pro161_Cys162insSerCysGlySerSerCysCysGlnPro (inframe_insertion)
